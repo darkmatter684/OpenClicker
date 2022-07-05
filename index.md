@@ -27,11 +27,12 @@ To setup the application:
 Go to ``System Preferences > Secruity & Privacy > Privacy > Accessibility``<br>
 Once you are here, press the lock to unlock the menu, and then add OpenClicker to the list of apps.<br>
 
-To do this:<br>
-![image](https://user-images.githubusercontent.com/105139789/177392661-133d37aa-9729-4cc0-8795-fe4f886ee91a.png)<br>
-Press the + and then go to the location of the OpenClicker app<br>
-
-Done!
+<details>
+  <summary>To add OpenClicker to the list of apps:</summary>
+  
+  1. Look for this ``+ -`` icon (it is under the list of apps)<br>![image](https://user-images.githubusercontent.com/105139789/177392661-133d37aa-9729-4cc0-8795-fe4f886ee91a.png)<br>
+  2. Select the location of the OpenClicker application
+</details>
 
 ## Notes
 
