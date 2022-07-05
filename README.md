@@ -1,8 +1,7 @@
 # OpenClicker
 MacOS autoclicker with an easy CPU load
 
-<img width="193" alt="image" src="https://user-images.githubusercontent.com/105139789/177263707-c524e27e-e194-4945-b5ec-31d38428ec2d.png">
-
+<img width="211" alt="image" src="https://user-images.githubusercontent.com/105139789/177263792-ab87deec-e827-4788-9361-d324fadd0d10.png">
 
 Setup for modiciations:
 Install packages through the requirements.txt file
