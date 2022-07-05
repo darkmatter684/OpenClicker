@@ -27,12 +27,11 @@ To setup the application:
 Go to ``System Preferences > Secruity & Privacy > Privacy > Accessibility``<br>
 Once you are here, press the lock to unlock the menu, and then add OpenClicker to the list of apps.<br>
 
-<details>
-  <summary>To add OpenClicker to the list of apps:</summary>
+To add OpenClicker to the list of apps:</summary>
   
-  1. Look for this ``+ -`` icon (it is under the list of apps)<br>![image](https://user-images.githubusercontent.com/105139789/177392661-133d37aa-9729-4cc0-8795-fe4f886ee91a.png)<br>
-  2. Select the location of the OpenClicker application
-</details>
+1. Look for this ``+ -`` icon (it is under the list of apps)<br>![image](https://user-images.githubusercontent.com/105139789/177392661-133d37aa-9729-4cc0-8795-fe4f886ee91a.png)<br>
+2. Select the location of the OpenClicker application
+
 <br>
 
 ## Notes
@@ -51,7 +50,7 @@ Steps to get these working:
 6. Enter your passcode
 7. Done! Global keybinds will now work! 
 If you get "command not found" make sure you spelling is correct and make sure you put a space after sudo and before the path to the file
-
+<br>
 #### What I learned from this project
 
 <p>OpenClicker was a really fun app for me to code, because through this I learned the basics and benefits of Object Oriented Programming. Additionally, if you look on GitHub you could find a .json file, which was my way of creating a save file. The JSON file allows anything that is changed in the program (including cooridnates of where the app is) to be saved and the next time you open the application all of the configurations you set will be saved there. Furthermore, while creating the site (this) I learned more about Markdown script and html along with learning how to use GitHub "professionally".
