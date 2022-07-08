@@ -5,3 +5,5 @@ MacOS autoclicker with an easy CPU load
 
 Setup for modiciations:
 Install packages through the requirements.txt file
+
+For more information visit the site: https://darkmatter684.github.io/OpenClicker/
